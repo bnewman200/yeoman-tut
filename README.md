@@ -2,7 +2,7 @@
 
 This is a simple Angular Scaffold using Yeoman with Gulp.
 
-Simple installation instructions can be found at [https://github.com/Swiip/generator-gulp-angular][https://github.com/Swiip/generator-gulp-angular].
+Simple installation instructions can be found at [https://github.com/Swiip/generator-gulp-angular][Swiip].
 
 This setup can also be created by cloning this repository.
 
@@ -25,3 +25,6 @@ gulp test:auto
 gulp protractor
 gulp protractor:dist
 ```
+
+
+[Swiip]: <https://github.com/Swiip/generator-gulp-angular>
