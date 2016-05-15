@@ -1,0 +1,8 @@
+.bowerrc
+.editorconfig
+.eslintrc
+.yo-rc.json
+
+.tmp/
+bower_components/
+node_modules/
